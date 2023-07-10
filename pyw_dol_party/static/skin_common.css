@@ -121,7 +121,6 @@ button.layer_btn { height: 40px; width: 40px; background: rgba(0, 0, 0, 0.2); bo
 .gallery2_1 .swiper-button-next, .gallery2_1 .swiper-button-prev { color: #fff; }
 
 /* 비디오 */
-#invite_wrap .iframe_wrap {padding: 0 16px;}
 #invite_wrap .iframe_inner video {width: 100%; height: 100%; border-radius: 4px;}
 
 /* 지도 */
